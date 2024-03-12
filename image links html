@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Links</title>
+    <style>
+        gallery img {
+            width: 40%;
+            height: 60%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Image Links Page!</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#menu">Menu</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h2>Home</h2>
+        <p>Welcome to my page! Here's an image related to technology:</p>
+        <style>
+           {width=30%
+            height=40%}
+        </style>
+         
+        <a href="https://https://www.apple.com"><img src="technology_image_url" alt="Technology"></a>
+    </section>
+    <section id="gallery">
+        <h2>Gallery</h2>
+        <div class="gallery">
+            <a href="https://African_Bush_Elephant.com"><img src="African_Bush_Elephant.jpg" alt="Nature"></a>
+        </div>
+    </section>
+    <section id="menu">
+        <h2>Menu</h2>
+        <ul>
+            <li><a href="https://1.bp.blogspot.com"><img src="chapati food.jpg" alt="Food Item 1"</a>.
+    </section>
+</body>
+</html>
